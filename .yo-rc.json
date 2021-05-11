@@ -1,0 +1,16 @@
+{
+  "generator-sppp": {
+    "app.name": "TestForm",
+    "sppp.version": "3.10.0",
+    "app.description": "",
+    "app.author": "Sergey Schukin",
+    "conf.spFolder": "SiteAssets/webparts(ReactSchukin)",
+    "conf.distFolder": "./dist",
+    "conf.additional.sslCerts": true,
+    "conf.additional.customTasks": false,
+    "conf.additional.presets": [
+      "react",
+      "fluentui"
+    ]
+  }
+}

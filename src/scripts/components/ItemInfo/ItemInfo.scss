@@ -1,0 +1,16 @@
+label,
+input,
+textarea {
+	display: block;
+}
+
+input,
+textarea {
+	margin: 5px;
+	padding: 5px;
+	min-width: 80%;
+}
+
+textarea {
+	resize: none;
+}
